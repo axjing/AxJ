@@ -9,15 +9,15 @@
 title: Anxjing
 
 # Your name to show in the footer
-author: Axjing
+author: Anxjing
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Anxjing: "https://gitee.com/axjing/AxJ"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Beautiful Anxjing: "https://github.com/axjing/AxJ"
+    - zhihu: "https://www.zhihu.com/people/anxjing"
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
@@ -40,11 +40,16 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "axjing@qq.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  facebook: "axjing@qq.com"
+  github: https://github.com/axjing
+  linkeidin: https://www.linkedin.com/in/%E7%9B%B8%E9%9D%99-%E5%AE%89-99192b106/
   patreon: DeanAttali
   youtube: c/daattali
+  # facebook: deanattali
+  # github: daattali
+  # twitter: daattali
+  # patreon: DeanAttali
+  # youtube: c/daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -64,7 +69,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: https://github.com/axjing
 
 # --- General options --- #
 

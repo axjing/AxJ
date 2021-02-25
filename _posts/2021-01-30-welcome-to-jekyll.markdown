@@ -1,20 +1,17 @@
 ---
 layout: post
-title:  "Welcome to Anxjing!"
-date:   2021-01-30 20:48:03 +0800
-categories: axjing update
+title:  Welcome to Anxjing!
+subtitle: 这是我的履历及相关项目的介绍
 gh-repo: axjing/AxJ
 gh-badge: [star, fork, follow]
 tags: [简历]
 comments: true
 ---
+#date:   2021-01-30 20:48:03 +0800
 
 
 
-<img src="https://gitee.com/axjing/AnImg/raw/master/img/安相静-2寸.jpg" width="50%">
-
-HELLO 欢迎和我一起学习
-
+<img src="https://gitee.com/axjing/AnImg/raw/master/img/安相静-2寸.jpg" width="25%">
  
 - $ @WeiXin: xiangxinweilaiAXJ
 - $ [ZhiHu](https://www.zhihu.com/people/anxjing)

@@ -3,9 +3,9 @@ layout: post
 title:  "Welcome to Anxjing!"
 date:   2021-01-30 20:48:03 +0800
 categories: axjing update
-gh-repo: daattali/beautiful-jekyll
+gh-repo: axjing/AxJ
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [简历]
 comments: true
 ---
 

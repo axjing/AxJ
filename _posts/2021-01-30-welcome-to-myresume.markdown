@@ -7,16 +7,8 @@ gh-badge: [star, fork, follow]
 tags: [简历]
 comments: true
 ---
-#date:   2021-01-30 20:48:03 +0800
 
-
-
-<img src="https://gitee.com/axjing/AnImg/raw/master/img/安相静-2寸.jpg" width="25%">
- 
-- $ @WeiXin: xiangxinweilaiAXJ
-- $ [ZhiHu](https://www.zhihu.com/people/anxjing)
-
-# 教育背景
+**教育背景**
 - 2017.09-2020.06                   深圳大学                    电子与通信工程（硕士）
 
 主修课程：数字信号处理；矩阵论；概率论；数字图像处理；计算机视觉；深度学习； 
@@ -30,6 +22,9 @@ OpenCV, office, Xmind, Visio等；
 - GitRepo: https://github.com/axjing/axjingWorks.git
 
 - 知乎粉丝: 1000+；[人工智能与互联网专栏](https://zhuanlan.zhihu.com/AInternet)
+
+- $ @WeiXin: xiangxinweilaiAXJ
+- $ [ZhiHu](https://www.zhihu.com/people/anxjing)
 
 # 科研项目
 ## 硕士课题
